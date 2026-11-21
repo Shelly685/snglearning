@@ -1,0 +1,6 @@
+{
+  "name": "SNG Learning",
+  "description": "Global Grade 1-12 and topic-wise learning management system by S&G Tutorial Services featuring curated internet video lectures, instant video-linked quizzes, downloadable student notes, interactive student boards, and live teacher video & blank whiteboard classrooms.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
